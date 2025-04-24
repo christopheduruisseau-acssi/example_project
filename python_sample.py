@@ -4,7 +4,7 @@ import os
 
 #Projet test python 
 #New dev environement
-#Juste pour voir le github action
+
 
 def sum_even_numbers(numbers: Iterable[int]) -> int:
     """Given an iterable of integers, return the sum of all even numbers in the iterable."""
